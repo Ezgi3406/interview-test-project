@@ -1,0 +1,16 @@
+{   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    display: inline-block;
+
+}
+  .card {
+    border: 1px solid black;
+  
+    /* height: 90vh; */
+  
+    transition: 0.3s;
+  }
